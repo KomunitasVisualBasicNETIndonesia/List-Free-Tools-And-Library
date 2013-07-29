@@ -123,3 +123,4 @@ YUI Compressor https://yuicompressor.codeplex.com <br/>
 <h3>OTHERS</h3>
 Northwind Starter Kit https://nsk.codeplex.com <br/>
 CommonLibrary.NET https://commonlibrarynet.codeplex.com <br/>
+Microsoft Application Architecture Guide, 2nd Edition http://msdn.microsoft.com/en-us/library/ff650706.aspx <br/>
