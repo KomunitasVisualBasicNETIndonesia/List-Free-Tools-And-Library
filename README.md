@@ -18,6 +18,7 @@ Open Flash Chart :http://teethgrinder.co.uk/open-flash-chart/dot-net.php <br/>
 DotNet.Highcharts https://dotnethighcharts.codeplex.com <br/>
 
 <h3>CODE OBFUSCATION</h3>
+Phoenix Obfuscator: http://www.ntcore.com/phoenix.php<br/>
 
 <h3>CROSS PLATFORM</h3>
 bridge between Java and .NET http://jni4net.sourceforge.net <br/>
@@ -37,6 +38,7 @@ StructureMap: http://structuremap.github.com/structuremap/ <br/>
 Spring.NET: http://www.springframework.net/ <br/>
 Autofac: http://code.google.com/p/autofac/ <br/>
 Unity: http://unity.codeplex.com/ <br/>
+Ninject: http://www.ninject.org/ <br/>
 
 <h3>REPORTING</h3>
 MyNeoReport http://www.codeproject.com/Articles/15168/A-New-NET-Reporting-Way
